@@ -1,5 +1,5 @@
-#1000h day 1 20240215
-##文本
+# 1000h day 1 20240215
+## 英文内容
 it's been almost a month since the community's launch tasks were announced
 I remember feeling thrilled and eager to start right away.
 However,after tarying,i realized my main issue is a lack of focus.
