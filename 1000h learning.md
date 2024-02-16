@@ -8,21 +8,21 @@ I stuggle to memorize and thoroughly know the prepared texts.
 It's like having the secret to the martial art but being unable to break through.
 ......
 ## 带音标
-1.	It's been almost a month since the community's launch tasks were announced.
+1.	It's been almost a **month** since the community's launch tasks were announced.
   /ɪts bɪn ˈɔlmoʊst ə mʌnθ sɪns ðə kəˈmjunətiz lɔnʧ tæsks wɜr əˈnaʊnst/
-2.	I remember feeling thrilled and eager to start right away.
+2.	I remember feeling **thrilled** and eager to start right away.
   /aɪ ˈrɛməmbər ˈfiːlɪŋ θrɪld ənd ˈigər tu stɑrt raɪt əˈweɪ/
-3.	However, after trying, I realized my main issue is a lack of focus.
+3.	However, after trying, I realized my main issue is a lack of **focus**.
   /ˈhaʊˌɛvər, ˈæftər ˈtraɪɪŋ, aɪ rɪˈlaɪzd maɪ meɪn ˈɪʃu ɪz ə læk ʌv ˈfoʊkəs/
 4.	I can't manage the 3 hours of daily intensive study.
   /aɪ kænt ˈmænɪdʒ ðə θri ˈaʊərz ʌv ˈdeɪli ɪnˈtɛnsɪv ˈstʌdi/
-5.	I struggle to memorize and thoroughly know the prepared texts.
+5.	I struggle to memorize and **thoroughly** know the prepared texts.
   /aɪ ˈstrʌɡəl tu ˈmɛməˌraɪz ənd ˈθɜroʊli noʊ ðə prɪˈpɛrd tɛksts/
-6.	It's like having the secret to a martial art but being unable to break through.
+6.	It's like having the secret to a **martial** art but being unable to break through.
   /ɪts laɪk ˈhævɪŋ ðə ˈsikrɪt tu ə ˈmɑrʃəl ɑrt bʌt ˈbiːɪŋ ʌnˈeɪbl tu breɪk θru/
 7.	The 3-hour daily goal has slowly become an impossible task for me, falling lower in my priorities.
   /ðə θri-ˈaʊər ˈdeɪli goʊl hæz ˈsloʊli bɪˈkʌm ən ɪmˈpɑsəbl tæsk fɔr mi, ˈfɔlɪŋ ˈloʊər ɪn maɪ praɪˈɔrətiz/
-8.	Li Xiaolai was right; the gap between people isn't about intelligence but execution.
+8.	Li Xiaolai was right; the gap between people isn't about intelligence but **execution**.
   /li ʃaʊˈlaɪ wəz raɪt; ðə ɡæp bɪˈtwiːn ˈpipəl ɪznt əˈbaʊt ɪnˈtɛlədʒəns bʌt ˌɛksɪˈkjuʃən/
 9.	The community's greatest value lies in providing mental support and guidance.
   /ðə kəˈmjunətiz ˈɡreɪtɪst ˈvælju laɪz ɪn prəˈvaɪdɪŋ ˈmɛntəl səˈpɔrt ənd ˈɡaɪdəns/
@@ -34,6 +34,15 @@ It's like having the secret to the martial art but being unable to break through
   /bʌt ˈpræktɪs ɪz ˈsɑlɪˌtɛri; noʊ wʌn kæn du ɪt fɔr ju/
 13.	There are no shortcuts, and the simplest way is often the most effective truth.
   /ðɛr ɑr noʊ ˈʃɔrtˌkʌts, ənd ðə ˈsɪmplɪst weɪ ɪz ˈɔfən ðə moʊst ɪˈfɛktɪv truθ/
+
+focus
+execution e和e前后的发音不一样
+throughly
+martial /tial/这个发音
+however 总是显示发音不正确
+issue 
+the competitive  这个地方发音怎么都不连贯 停顿补上
+simplest  lest里面的l发音我总是无法读好，要字正腔圆，实际发音不是。
 
 ## 中文内容
 社群的启动任务发布已经有接近一个月的时间，
