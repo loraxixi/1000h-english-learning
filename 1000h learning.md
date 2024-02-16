@@ -36,16 +36,15 @@ It's like having the secret to the martial art but being unable to break through
 13.	There are no shortcuts, and the simplest way is often the most effective truth.
   /ðɛr ɑr noʊ ˈʃɔrtˌkʌts, ənd ðə ˈsɪmplɪst weɪ ɪz ˈɔfən ðə moʊst ɪˈfɛktɪv truθ/
 
-focus
-execution e和e前后的发音不一样
-throughly
-martial /tial/这个发音
-however 总是显示发音不正确
-issue 
-the competitive  这个地方发音怎么都不连贯 停顿补上
-simplest  lest里面的l发音我总是无法读好，要字正腔圆，实际发音不是。
---
-feeling 我发音的时候总有一个r化音，错误的读法
+1. focus
+2. execution e和e前后的发音不一样
+3. throughly
+4. martial /tial/这个发音
+5. however 总是显示发音不正确
+6. issue 
+7. the competitive  这个地方发音怎么都不连贯 停顿补上
+8. simplest  lest里面的l发音我总是无法读好，要字正腔圆，实际发音不是。
+9. feeling 我发音的时候总有一个r化音，错误的读法
 
 ## 中文内容
 社群的启动任务发布已经有接近一个月的时间，
