@@ -7,10 +7,11 @@ I can't manage the three hours of daily intensive study
 I stuggle to memorize and thoroughly know the prepared texts.
 It's like having the secret to the martial art but being unable to break through.
 ......
+
 ## 带音标
 1.	It's been almost a **month** since the community's launch tasks were announced.
   /ɪts bɪn ˈɔlmoʊst ə mʌnθ sɪns ðə kəˈmjunətiz lɔnʧ tæsks wɜr əˈnaʊnst/
-2.	I remember feeling **thrilled** and eager to start right away.
+2.	I remember **feeling thrilled** and eager to start right away.
   /aɪ ˈrɛməmbər ˈfiːlɪŋ θrɪld ənd ˈigər tu stɑrt raɪt əˈweɪ/
 3.	However, after trying, I realized my main issue is a lack of **focus**.
   /ˈhaʊˌɛvər, ˈæftər ˈtraɪɪŋ, aɪ rɪˈlaɪzd maɪ meɪn ˈɪʃu ɪz ə læk ʌv ˈfoʊkəs/
@@ -43,6 +44,8 @@ however 总是显示发音不正确
 issue 
 the competitive  这个地方发音怎么都不连贯 停顿补上
 simplest  lest里面的l发音我总是无法读好，要字正腔圆，实际发音不是。
+--
+feeling 我发音的时候总有一个r化音，错误的读法
 
 ## 中文内容
 社群的启动任务发布已经有接近一个月的时间，
