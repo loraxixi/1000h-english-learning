@@ -35,7 +35,7 @@ It's like having the secret to the martial art but being unable to break through
   /bʌt ˈpræktɪs ɪz ˈsɑlɪˌtɛri; noʊ wʌn kæn du ɪt fɔr ju/
 13.	There are no shortcuts, and the simplest way is often the most effective truth.
   /ðɛr ɑr noʊ ˈʃɔrtˌkʌts, ənd ðə ˈsɪmplɪst weɪ ɪz ˈɔfən ðə moʊst ɪˈfɛktɪv truθ/
-
+## 发音错误点
 1. focus
 2. execution e和e前后的发音不一样
 3. throughly
